@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color:  #1c1c1c;
+  flex-wrap: wrap;
+  overflow-x: hidden;
+}
+
+.imagea{
+  
+  width: 160px;
+  border-radius: 900px;
+}
+.About{
+  
+  color:white;  
+  text-align: center;
+  margin-top: 80px;
+  padding-top: 80px;
+}
+.About > .discription{
+  width :80%;
+  margin: 0 auto; 
+  font-size: 20px;
+
+}
+.Type{
+  font-size: 30px;
+  font-weight: 800;
+}
+.About > h1{
+  font-size: 40px;
+  font-weight: 800;
+  color: white;
+}
+.extra{
+  color: blue;
+}
+h1{
+  text-decoration: underline;
+}
+.responsive{
+  text-align: center;
+  
+  
+}
