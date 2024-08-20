@@ -8,7 +8,7 @@ const TypedText = () => {
             <ReactTyped
                 strings={[
                     "I Am a Student.",
-                    "I Am a Programer.",
+                    "I Am a Programmer.",
                     "I Am a Web Developer."
                 ]}
                 typeSpeed={40}
