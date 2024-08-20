@@ -1,5 +1,5 @@
 import React from 'react';
-import './Contact.css'; 
+import './contact.css'; 
 import { FaLinkedin } from "react-icons/fa6";
 import { CiInstagram } from "react-icons/ci";
 import { FaGitSquare } from "react-icons/fa";
